@@ -3,7 +3,7 @@
 
 <h5 align="center">
 
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PRML01_Design_Simple_CNN.ipybn)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuangTruong-Nguyen/MiniProject_Design_Simple_CNN/blob/main/PRML01_Design_Simple_CNN.ipynb)
 
 
 </h5>
